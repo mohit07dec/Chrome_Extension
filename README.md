@@ -1,16 +1,11 @@
-# title(){return this.options.title||this.options.name}
+# Browser Tab Saver Chrome Extension
 
-## Supporting Scrimba
+1) Designed and implemented the user interface using HTML and CSS, providing an intuitive and seamless experience for users to save and organize their tabs.
+2) Utilized JavaScript to create a functionality that captures tab URL, and stores it locally.
+3) Leveraged the web extension platform's new iteration, Manifest V3, to ensure compatibility with the latest Chrome browser updates.
+4) Technologies Used : HTML, CSS, JavaScript, Chrome Extension API (Manifest V3)
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+# Screenshots:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+![image](https://github.com/mohit07dec/Chrome_Extension/assets/142138405/aede74aa-2897-41fa-a5f3-eed3f0427373)
 
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
